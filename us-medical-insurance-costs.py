@@ -8,7 +8,6 @@
 
 #import csv library
 import csv
-from collections import Counter
 
 ages = []
 sexes = []
